@@ -1,4 +1,4 @@
-# Setting up an MLOps project step by step tests test🚀
+# Setting up an MLOps project step by step tests test test🚀
 
 Welcome to the setup guide! Here, we'll outline the steps needed to configure and implement the various first stages of the MLOps pipeline. Follow along and fill in the details as you proceed through each step in the `workflow_steps.ipynb` notebook.
 
